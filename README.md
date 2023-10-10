@@ -1,4 +1,4 @@
-<h1>Student Management System using C++ and Doubly Linked List</h1>
+<h1>Student Management System using C++ and Double Linked List</h1>
     <h2>Description</h2>
     <p>
         This project is a simple student management system implemented in C++ using a doubly linked list data structure. It allows users to perform various operations related to managing student records, such as adding, deleting, updating, and searching for student information.
