@@ -145,7 +145,7 @@ void pageHeader()
 {
 	system("cls");
 	cout << "*********************************************************************************************" << endl;
-	cout << "#                                     STUDENT MANAGEMENT SYTEM                               #" << endl;
+	cout << "|                                     STUDENT MANAGEMENT SYTEM                               |" << endl;
 	cout << "*********************************************************************************************" << endl;
 }
 // Link List printer
